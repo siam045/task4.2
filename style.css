@@ -1,0 +1,11 @@
+.sbody{
+  margin: 20px;
+  padding: 30px;
+}
+.submit{
+  margin-top: 20px;
+  color:red;
+  border: 2px solid black;
+  background-color:greenyellow;
+  border-radius: 5px;
+}
